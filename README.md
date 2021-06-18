@@ -1,6 +1,6 @@
 ###
 <h1 align="center"> Hey! There 👋</h1>
-<h3 align="center">A Programming Enthusiast 🚶🏻‍♂️💻🤖</h3>
+<h5 align="center">A Programming Enthusiast 🚶🏻‍♂️💻🤖</h5>
 
 <img align="right" alt="Coding" width="430" src="https://user-images.githubusercontent.com/59779635/122485459-95f89c00-cff4-11eb-8ea9-697b7ff31830.gif" />
 
