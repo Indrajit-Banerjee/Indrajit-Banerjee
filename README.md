@@ -13,7 +13,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=indrajit-banerjee&show_icons=true&locale=en&layout=compact" alt="indrajit-banerjee" /></p>
 
-<p>&nbsp;<img align="left" style="margin-top: 10px;" src="https://github-readme-stats.vercel.app/api?username=indrajit-banerjee&show_icons=true&locale=en" alt="indrajit-banerjee" /></p>
+<p>&nbsp;<img align="left" style="margin-top: 1000px;" src="https://github-readme-stats.vercel.app/api?username=indrajit-banerjee&show_icons=true&locale=en" alt="indrajit-banerjee" /></p>
 
 
 <!--
